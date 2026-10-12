@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Experiment outputs
+logs/
+*.log
+
+# Data (too large for Git; see README for preparation)
+datasets/
+data/
+*.pt
+*.pkl
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
